@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
-Nombre Apellido \[No control]: Iván De Jesús Fonseca Díaz \[22212383]; l22212383@tectijuana.edu.mx
+Iván De Jesús Fonseca Díaz \[22212383]; l22212383@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
